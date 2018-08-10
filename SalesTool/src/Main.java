@@ -12,6 +12,7 @@ public class Main {
         System.out.println("Hello Sales Happy People");
         System.out.println("Test 1");
         System.out.println("Test 2");
+        System.out.println("test 3");
     }
 
 }
