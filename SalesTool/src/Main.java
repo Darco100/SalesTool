@@ -16,6 +16,8 @@ public class Main {
         System.out.println("test 3");
         System.out.println("This app shows sth");
         System.out.println("-------------------");
+        System.out.println("Cleaned up code");
+        System.out.println("-------------------");
     }
 
 }
