@@ -13,6 +13,8 @@ public class Main {
         System.out.println("Test 1");
         System.out.println("Test 2");
         System.out.println("test 3");
+        System.out.println("This app shows sth");
+        System.out.println("-------------------");
     }
 
 }
